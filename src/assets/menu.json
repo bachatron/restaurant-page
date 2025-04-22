@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Wagyu Chimichurri Rolls",
+    "description": "Thin slices of Argentine Wagyu beef wrapped around sushi rice, avocado, and scallions, drizzled with house-made chimichurri soy glaze."
+  },
+  {
+    "title": "Empanadas Nippon",
+    "description": "Traditional empanadas filled with miso-glazed pork, shiitake mushrooms, and scallions, served with a wasabi-lime aioli."
+  },
+  {
+    "title": "Gaucho Ramen",
+    "description": "A bold miso broth infused with smoked paprika and grilled chorizo, topped with soft-boiled egg, nori, and tender asado beef strips."
+  },
+  {
+    "title": "Tuna Tartar Criollo",
+    "description": "Fresh diced tuna sashimi tossed with yuzu, olive oil, red pepper, and chimichurri herbs, served on crispy rice crackers."
+  },
+  {
+    "title": "Teriyaki Milanesa",
+    "description": "Panko-breaded beef cutlet in a sweet teriyaki reduction, garnished with sesame seeds and green onions, served with wasabi mashed potatoes."
+  },
+  {
+    "title": "Pampas Sushi Platter",
+    "description": "Sushi assortment featuring grilled provoleta nigiri, flank steak maki with pickled onions, and tempura mollejas (sweetbreads)."
+  },
+  {
+    "title": "Mate & Matcha Cheesecake",
+    "description": "Creamy layered cheesecake flavored with Argentine yerba mate and Japanese matcha, on a sesame-almond crust."
+  },
+  {
+    "title": "Tempura Humita Bites",
+    "description": "Corn and cheese humita fritters given a Japanese tempura twist, served with spicy soy aioli."
+  },
+  {
+    "title": "Yakitori al Malbec",
+    "description": "Skewered chicken glazed with a Malbec-teriyaki reduction, grilled and finished with smoked salt and a dash of lime."
+  },
+  {
+    "title": "Sashimi Criollo Bowl",
+    "description": "A poke-style bowl with salmon sashimi, roasted peppers, pickled eggplant, and sushi rice, finished with chimichurri dressing and crispy onions."
+  }
+]
